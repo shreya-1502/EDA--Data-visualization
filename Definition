@@ -1,0 +1,7 @@
+###
+Exploratory Data Analysis (EDA) is a crucial step in the machine learning pipeline that involves analyzing and visualizing data to gain insights and inform subsequent modeling decisions.
+EDA helps in understanding the structure, patterns, and relationships within the dataset. 
+
+###
+Data Visualization:
+Create visualizations (histograms, box plots, scatter plots, etc.) to explore the distribution of individual features and relationships between variables.
